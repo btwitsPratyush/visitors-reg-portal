@@ -1,7 +1,6 @@
 # Society Visitor Registration Portal
 
-![Society Visitor Registration Portal](<img width="1253" alt="Screenshot 2025-05-07 at 5 34 34 PM" src="https://github.com/user-attachments/assets/ca5223b1-9451-4fd9-bc50-86be9d30a5a3" />
-)
+
 
 A professional and elegant visitor management system designed for residential societies. This application streamlines the visitor registration process, enhances security, and provides comprehensive visitor tracking capabilities.
 

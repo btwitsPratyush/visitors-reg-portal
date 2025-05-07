@@ -1,6 +1,7 @@
 # Society Visitor Registration Portal
 
-![Society Visitor Registration Portal](https://greenvalleysh.vercel.app/)
+![Society Visitor Registration Portal](<img width="1253" alt="Screenshot 2025-05-07 at 5 34 34 PM" src="https://github.com/user-attachments/assets/ca5223b1-9451-4fd9-bc50-86be9d30a5a3" />
+)
 
 A professional and elegant visitor management system designed for residential societies. This application streamlines the visitor registration process, enhances security, and provides comprehensive visitor tracking capabilities.
 
@@ -37,7 +38,7 @@ A professional and elegant visitor management system designed for residential so
 
 1. Clone the repository
    \`\`\`bash
-   git clone https://github.com/yourusername/society-visitor-portal.git
+   git clone https://github.com/btwitsPratyush/society-visitor-portal.git
    cd society-visitor-portal
    \`\`\`
 
@@ -55,7 +56,7 @@ A professional and elegant visitor management system designed for residential so
    yarn dev
    \`\`\`
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open [https://greenvalleysh.vercel.app/](https://greenvalleysh.vercel.app/) in your browser
 
 ## Deployment
 
@@ -103,12 +104,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
-![Registration Form](https://placeholder.svg?height=200&width=400)
-![Visitor Log](https://placeholder.svg?height=200&width=400)
+![Registration Form](<img width="1274" alt="Screenshot 2025-05-07 at 5 30 33 PM" src="https://github.com/user-attachments/assets/9009f944-ca9e-4d7b-a531-1713e436b82c" />
+height=200&width=400)
 
 ---
 
 © 2023 Society Visitor Registration Portal. All rights reserved.
 \`\`\`
 
-Now, let's update the page.tsx file to remove the top description and add an elegant about section at the bottom:
+

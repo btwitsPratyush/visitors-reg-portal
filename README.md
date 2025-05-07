@@ -1,6 +1,6 @@
 # Society Visitor Registration Portal
 
-![Society Visitor Registration Portal](https://placeholder.svg?height=300&width=800)
+![Society Visitor Registration Portal](https://greenvalleysh.vercel.app/)
 
 A professional and elegant visitor management system designed for residential societies. This application streamlines the visitor registration process, enhances security, and provides comprehensive visitor tracking capabilities.
 

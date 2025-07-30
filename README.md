@@ -4,7 +4,7 @@
 
 A professional and elegant visitor management system designed for residential societies. This application streamlines the visitor registration process, enhances security, and provides comprehensive visitor tracking capabilities.
 
-## Features
+## Features:-
 
 ### Core Functionality
 - **Visitor Registration Form** with validation for:
@@ -19,7 +19,8 @@ A professional and elegant visitor management system designed for residential so
   - Data export to CSV format
   - Bulk record management
 
-### Technical Implementation
+### Technical Implementation:-
+
 - **Responsive Design** optimized for all devices
 - **Local Storage Integration** for persistent data
 - **Form Validation** with real-time feedback
@@ -27,13 +28,13 @@ A professional and elegant visitor management system designed for residential so
 - **Elegant UI** with subtle animations and transitions
 - **Optimized Performance** with React best practices
 
-## Getting Started
+## Getting Started:-
 
 ### Prerequisites
 - Node.js 14.x or higher
 - npm or yarn package manager
 
-### Installation
+### Installation:-
 
 1. Clone the repository
    \`\`\`bash
@@ -57,7 +58,7 @@ A professional and elegant visitor management system designed for residential so
 
 4. Open [https://greenvalleysh.vercel.app/](https://greenvalleysh.vercel.app/) in your browser
 
-## Deployment
+## Deployment:-
 
 The application can be easily deployed to Vercel or Netlify:
 
@@ -73,7 +74,7 @@ npm install -g netlify-cli
 netlify deploy
 \`\`\`
 
-## Technologies Used
+## Technologies Used:-
 
 - **Next.js** - React framework for production
 - **React** - JavaScript library for building user interfaces
@@ -84,7 +85,7 @@ netlify deploy
 - **date-fns** - Date utility library
 - **Lucide React** - Beautiful, consistent icon set
 
-## Project Structure
+## Project Structure:-
 
 \`\`\`
 society-visitor-portal/
@@ -97,11 +98,11 @@ society-visitor-portal/
 └── package.json          # Project dependencies
 \`\`\`
 
-## License
+## License:-
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Screenshots
+## Screenshots:-
 
 ![Registration Form](<img width="1274" alt="Screenshot 2025-05-07 at 5 30 33 PM" src="https://github.com/user-attachments/assets/9009f944-ca9e-4d7b-a531-1713e436b82c" />
 height=200&width=400)

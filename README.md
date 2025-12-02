@@ -6,7 +6,7 @@ A professional and elegant visitor management system designed for residential so
 
 ## Features:
 
-### Core Functionality-
+### Core Functionality
 - **Visitor Registration Form** with validation for:
   - Full Name
   - Flat Number

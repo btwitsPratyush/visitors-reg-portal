@@ -28,7 +28,7 @@ A professional and elegant visitor management system designed for residential so
 - **Elegant UI** with subtle animations and transitions
 - **Optimized Performance** with React best practices
 
-## Getting Started:-
+## Getting Started:
 
 ### Prerequisites
 - Node.js 14.x or higher

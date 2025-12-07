@@ -4,7 +4,7 @@
 
 A professional and elegant visitor management system designed for residential societies. This application streamlines the visitor registration process, enhances security, and provides comprehensive visitor tracking capabilities.
 
-## Features:
+## Features:-
 
 ### Core Functionality
 - **Visitor Registration Form** with validation for:

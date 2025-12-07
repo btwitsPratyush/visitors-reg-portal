@@ -85,7 +85,7 @@ netlify deploy
 - **date-fns** - Date utility library
 - **Lucide React** - Beautiful, consistent icon set
 
-## Project Structure:
+## Project Structure:-
 
 \`\`\`
 society-visitor-portal/

@@ -19,7 +19,7 @@ A professional and elegant visitor management system designed for residential so
   - Data export to CSV format
   - Bulk record management
 
-### Technical Implementation:
+### Technical Implementation:-
 
 - **Responsive Design** optimized for all devices
 - **Local Storage Integration** for persistent data
